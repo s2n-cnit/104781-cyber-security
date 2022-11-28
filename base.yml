@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  node:
+    image: tnt-lab-unige-cnit/base
+    tty: true
+    restart: unless-stopped
+    cap_add:
+      - NET_ADMIN
+    volumes:
+      - type: bind
+        source: ./config
+        target: /opt/config
+      - type: bind
+        source: ./exercise
+        target: /opt/exercise
