@@ -8,7 +8,7 @@ IPSec and VPN Configuration exercises using Cisco Packet Tracer.
 
 ## Prerequisites
 
-1. **Install packet tracer** from https://www.docker.com/products/docker-desktop.
+1. **Install packet tracer** from https://www.netacad.com/courses/packet-tracer.
 
 ## Setup
 
