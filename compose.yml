@@ -11,9 +11,7 @@ services:
         ipv4_address: 10.5.1.254
       net-2:
         ipv4_address: 10.5.2.254
-    # command:
-    #  - dos2unix /opt/config/set-fw.sh
-    #  - /opt/config/set-fw.sh
+    command: /opt/config/set-fw.sh
   host-1:
     container_name: cs-host-1
     hostname: cs-host-1
@@ -24,9 +22,7 @@ services:
     networks:
       net-1:
         ipv4_address: 10.5.1.10
-    # command:
-    #  - dos2unix /opt/config/set-gw.sh
-    #  - /opt/config/set-gw.sh 10.5.1.254
+    command: /opt/config/set-gw.sh 10.5.1.254
   host-2:
     container_name: cs-host-2
     hostname: cs-host-2
@@ -37,9 +33,7 @@ services:
     networks:
       net-1:
         ipv4_address: 10.5.1.20
-    # command:
-    #  - dos2unix /opt/config/set-gw.sh
-    #  - /opt/config/set-gw.sh 10.5.1.254
+    command: /opt/config/set-gw.sh 10.5.1.254
   host-3:
     container_name: cs-host-3
     hostname: cs-host-3
@@ -50,9 +44,7 @@ services:
     networks:
       net-2:
         ipv4_address: 10.5.2.11
-    # command:
-    #  - dos2unix /opt/config/set-gw.sh
-    #  - /opt/config/set-gw.sh 10.5.2.254
+    command: /opt/config/set-gw.sh 10.5.2.254
 networks:
   net-1:
     name: cs-network-1
