@@ -2,9 +2,9 @@
 
 Source code for exercise of Cyber Security Course (104781).
 
-## IPsec using Cisco Packet Tracer
+## Firewall using Cisco Packet Tracer
 
-IPSec and VPN Configuration exercises using Cisco Packet Tracer.
+Firewall exercises using Cisco Packet Tracer.
 
 ## Prerequisites
 
