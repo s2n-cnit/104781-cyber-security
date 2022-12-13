@@ -21,4 +21,4 @@
 # 3. Network Security
 
 - [Handout](project-3/handout.pdf)
-- [Starter Code](project-3/starter-code.zip)
+- [Starter Code](project-3/starter-code.tar.gz)
