@@ -1,7 +1,7 @@
 # 1. Control hijacking
 
 - [Assignment](project-1/assignment.pdf)
-- [VM box](project-1/vm-box.tar.gz)
+- [VM box](https://easyupload.io/vzb67q)
 - [Starter Code](project-1/starter-code.tar.gz)
 
 ## Relevant Materials:
