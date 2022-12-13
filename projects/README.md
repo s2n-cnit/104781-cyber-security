@@ -14,7 +14,7 @@
 - [Intel - Intel Architecture Guide for Software Developers , Ch. 3 and 6.](https://www.intel.com/content/www/us/en/architecture-and-technology/64-ia-32-architectures-software-developer-vol-1-manual.html)
 
 # 2. Web Security
-ß
+
 - [Handout](project-2/handout.pdf)
 - [Starter Code](project-2/starter-code.zip)
 

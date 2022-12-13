@@ -14,3 +14,7 @@ Source code for exercise of Cyber Security Course (104781).
 - [Visual Studio Code](https://code.visualstudio.com): **best free** source code editor (**IDE**).
 - [Portainer](https://www.portainer.io/)'s hybrid & multi-cloud container management platform supports Kubernetes, Docker, Swarm in any Data Center, Cloud, Network Edge or IoT Device.
 - [JetBrains Fleet](https://www.jetbrains.com/fleet): next-generation IDE.
+
+## Projects
+
+[Practical projects](projects/README.md) for bonus exam (5 points).
