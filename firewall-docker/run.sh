@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE=tnt-lab-unige-cnit/base
+IMAGE=s2n-cnit/base
 
 docker-compose kill -s SIGINT
 docker compose down

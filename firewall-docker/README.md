@@ -16,14 +16,14 @@ Firewall exercises using Docker.
 1. **Clone** this repository.
 
 ```console
-git clone https://github.com/tnt-lab-unige-cnit/104781-cyber-security.git 104781-cyber-security
+git clone https://github.com/s2n-cnit/104781-cyber-security.git 104781-cyber-security
 ```
 
 2. Build the image with:
 
 ```console
 cd 104781-cyber-security/firewall-docker
-docker build . -t tnt-lab-unige-cnit/base
+docker build . -t s2n-cnit/base
 ```
 
 3. **Run the container** with `docker compose`:

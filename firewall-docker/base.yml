@@ -1,7 +1,7 @@
 version: "3.9"
 services:
   node:
-    image: tnt-lab-unige-cnit/base
+    image: s2n-cnit/base
     tty: true
     restart: unless-stopped
     cap_add:
